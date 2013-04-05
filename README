@@ -1,0 +1,5 @@
+please use next command to push files changes;
+
+git add *
+git commit -m "some change" -a
+git push origin master
